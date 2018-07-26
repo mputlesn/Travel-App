@@ -1,0 +1,42 @@
+page-menu {
+    .body{
+        background-color: rgb(255, 240, 240);
+    }
+
+    ion-card {
+        position: relative;
+        text-align: center;
+      }
+    
+      .card-title {
+        position: absolute;
+        top: 36%;
+        font-size: 2.0em;
+        width: 100%;
+        font-weight: bold;
+        color: #fff;
+      }
+    
+      .card-subtitle {
+        font-size: 1.0em;
+        position: absolute;
+        top: 52%;
+        width: 100%;
+        color: #fff;
+      }
+      img{
+          width: 400px;
+          height: 250px;
+      }
+      
+      h1{
+          font-size: 2em;;
+          text-align: center;
+          color: rgba(245, 116, 65, 0.657);
+      }
+
+      .header{
+          padding: 5%;
+      }
+
+}

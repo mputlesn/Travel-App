@@ -1,0 +1,49 @@
+page-user-details {
+    .body{
+        width:100%;
+        margin:auto;
+        max-width:525px;
+        min-height:670px;
+        position:relative;
+        background-image:linear-gradient(rgba(245, 116, 65, 0.657),rgba(0,0,0,0.5)),url('../../assets/imgs/background.jpg');
+        background-size: cover;
+        background-position-x: 50%;
+    }
+    
+    .input{
+        border: 1px ;
+        padding: 15px;
+        margin-bottom: 10%;
+        border-radius:25px;
+        background:rgba(158, 104, 82, 0.657);
+        font-size: 1.2em;
+        color: white;
+        
+    }
+    .con{
+        margin-top: 30%;
+    }
+
+   .list{
+       background: transparent;
+       position: relative;
+       top: 1%;
+   }
+
+   .btn{
+       position: relative;
+       top: 5%;
+       font-size: 2em;
+       background: rgba(158, 104, 82, 0.657);
+       color: white;
+   }
+
+   .header{
+    position: relative;
+    font-size: 3em;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color: white;
+    text-align: center;
+    margin-top: 25%;
+}
+}
